@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Ken Martin, Bill Hoffman
+# This file is distributed under the same license as the Mastering CMake
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+msgid ""
+msgstr "Project-Id-Version: Mastering CMake \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-15 15:41+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: it\n"
+"Language-Team: it <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../source/index.rst:16
+msgid "Contents:"
+msgstr "Contenuti:"
+
+#: ../../source/index.rst:4
+msgid "Introduction"
+msgstr "Introduzione"
+
+#: ../../source/index.rst:6
+msgid ""
+"This book describes how to use the CMake family of tools, including "
+"CTest, CPack and CDash, to develop, build, test, and package software for"
+" distribution. Starting with the basics of how to install and run the "
+"command-line and GUI tools, Mastering CMake covers how to write CMake "
+"code as well as how to convert existing projects to CMake. Finally, a "
+"series of guides, including the CMake tutorial, provide hands-on "
+"examples."
+msgstr "Questo libro descrive come utilizzare la famiglia di strumenti CMake, inclusi CTest, CPack e CDash, per sviluppare, creare, testare e impacchettare il software per la distribuzione. Partendo dalle basi su come installare ed eseguire la riga di comando e gli strumenti della GUI, Mastering CMake spiega come scrivere il codice CMake e come convertire i progetti esistenti in CMake. Infine, una serie di guide, incluso il tutorial di CMake, forniscono esempi pratici."
+
+#: ../../source/index.rst:14
+msgid "Mastering CMake"
+msgstr "Mastering CMake"
+
+#: ../../source/index.rst:45
+msgid "Index and Search"
+msgstr "Indice e Ricerca"
+
+#: ../../source/index.rst:47
+msgid ":ref:`genindex`"
+msgstr ":ref:`genindex`"
+
+#: ../../source/index.rst:48
+msgid ":ref:`modindex`"
+msgstr ":ref:`modindex`"
+
+#: ../../source/index.rst:49
+msgid ":ref:`search`"
+msgstr ":ref:`search`"
+

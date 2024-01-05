@@ -1,2 +1,4 @@
 # CMake_Italian_docs
-Documentazione su CMake in Italiano
+Raccolta di documenti tradotti in italiano su CMake
+
+MasteringCMake
